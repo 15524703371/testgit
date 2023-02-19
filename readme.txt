@@ -1,3 +1,3 @@
-Hello World
+Git is a version control system.
 
-Hello Java
+Git is free software.
